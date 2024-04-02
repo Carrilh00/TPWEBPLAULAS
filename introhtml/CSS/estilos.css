@@ -1,0 +1,78 @@
+p{
+    font-size: 16pt;
+}
+
+.corParagrafoVerde{
+    color: green;
+}
+
+
+.corParagrafoVermelho{
+    color: red;
+}
+
+#cabecalho{
+    width: 90%;
+    margin-left: 5%;
+    height: 150px;
+    background-color:aqua;
+}
+
+#logo{
+    width:30%;
+    float: left;
+    height: 150px;
+}
+
+#logo img{
+    transform: scale (0.7);
+    height: 150px;
+}
+
+#descricao{
+    width:70%;
+    float: right;
+    height: 150px;
+    text-align: center;
+    margin-top: 30px;
+    color: white;
+}
+
+#menu{
+    width: 90%;
+    margin-left: 5%;
+    height: 120px;
+    background-color:aqua;
+}
+
+#menu ul{
+    list-style: none;
+}
+
+#menu ul li a{
+    text-decoration: none;
+    color:white;
+    font-weight: bold;
+    font-size: 16pt;
+
+}
+#menu ul li{
+    width:220px;
+    height:70px;
+    float: left;
+    text-align:center;
+}
+
+main{
+    width:90%;
+    margin-left:5%;
+}
+
+#exemplo{
+    width: 90%;
+    margin-left: 5%;
+    color: black;
+    font-size:16pt;
+    text-align:center;
+    background-color:aqua;
+}
